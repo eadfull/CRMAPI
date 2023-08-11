@@ -5,7 +5,7 @@
  * Classe de coneção REST com WorkControl
  * @copyright (c) year, Robson V. Leite - UPINSIDE TECNOLOGIA
  */
-class WorkControlApi {
+class CrmApi {
 
     private $Base;
     private $Key;
