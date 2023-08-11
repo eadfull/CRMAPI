@@ -1,5 +1,5 @@
-# WorkControlAPI
-Classe de consumo de dados da API Work Control.
+# CRM API
+Classe de consumo de dados da API do CRM.
 
 > POST:: Exemplo de uso PHP:
 
